@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<img src="doc/capture.png">
+<h3>Installation</h3>
+Install Meteor friend. When that is done, download this here thingy ma'jiggy into your github as a template. Then do the whole shibang with github desktop, open CMD to the correct directory/file location, and run meteor npm run start. Then do what it says in the CMD.
 
-You can use the [editor on GitHub](https://github.com/ian-lastname/digits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ian-lastname/digits/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h3>Pages</h3>
+<ul>
+<li>Landing Page: The intro page explaining the features of this here website.</li>
+<li>Sign-in Page: Sign in...</li>
+<li>Sign-out Page: Sign out...</li>
+<li>Sign-up Page: The page where you can set up your account for the first time.</li>
+<li>Not Found Page: Page that shows up to inform that the page you tried to access non-existent.</li>
+<li>ListContacts/ListContactsAdmin Page: Page that lists the different contacts that you have, you can add notes to each contact and edit the contacts themselves.</li>
+<li>Edit Contact Page: The page where you are actually able to input your edits to a contact.</li>
+</ul>
