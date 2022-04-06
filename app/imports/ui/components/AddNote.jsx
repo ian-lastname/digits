@@ -13,8 +13,8 @@ class AddNote extends React.Component {
 
   // On submit, insert the data.
   submit(data, formRef) {
-    const { name, contactId, owner, createdAt } = data;
-    Notes.collection.insert({ name, contactId, owner, createdAt },
+    const { note, contactId, owner, createdAt } = data;
+    Notes.collection.insert({ note, contactId, owner, createdAt },
       (error) => {
         if (error) {
           swal('Error', error.message, 'error');
